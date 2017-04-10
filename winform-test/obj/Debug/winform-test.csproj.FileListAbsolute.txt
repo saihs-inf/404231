@@ -1,0 +1,9 @@
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\bin\Debug\winform-test.exe.config
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\bin\Debug\winform-test.exe
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\bin\Debug\winform-test.pdb
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\obj\Debug\winform-test.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\obj\Debug\winform_test.Form1.resources
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\obj\Debug\winform_test.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\obj\Debug\winform-test.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\obj\Debug\winform-test.exe
+C:\Users\INF2A-user\Desktop\winform-test\winform-test\obj\Debug\winform-test.pdb
